@@ -9,7 +9,7 @@ export const Image = styled.img`
   border-radius: 20px;
   animation: animateMovieThumb 0.5s;
 
-  :hover {
+  &:hover {
     opacity: 0.8;
   }
 
